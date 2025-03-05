@@ -12,7 +12,7 @@ load_dotenv()
 
 
 # Configure Gemini API
-genai.configure(api_key='GOOGLE_API_KEY')  # Replace with your Gemini API key
+genai.configure('AIzaSyCeIxjSIV8iTu6FXiPOzFaTZyoI3YO_iVM')  # Replace with your Gemini API key
 model = genai.GenerativeModel('models/gemini-2.0-flash-thinking-exp-1219')
 
 app = FastAPI()
