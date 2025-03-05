@@ -5,3 +5,8 @@ joblib
 pydantic
 pandas
 xgboost
+geopy
+transformers
+torch
+huggingface_hub
+python-dotenv
