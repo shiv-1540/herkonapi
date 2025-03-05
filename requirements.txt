@@ -11,3 +11,4 @@ torch
 huggingface_hub
 python-dotenv
 google-generativeai
+mysql-connector-python
